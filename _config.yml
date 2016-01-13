@@ -2,6 +2,7 @@ name: vittore
 favicon: null
 layout_spectrum: 0.4856330081764467
 typography_spectrum: 0.7551019244613543
+title: My blog
 cta:
   domain: null
   bucket: null
