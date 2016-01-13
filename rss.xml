@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[vittore]]></title>
         <description><![CDATA[vittore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vittore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 23:52:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 06:25:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vittore/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aef80f9-b6e8-4348-a255-799783ce7fa8.jpg">]]></description>
-            <link>undefined8faf3fe1-e795-4475-917c-6bd3961c88e6/index.html</link>
+            <link>https://thegrid.ai/vittore/8faf3fe1-e795-4475-917c-6bd3961c88e6/index.html</link>
             <guid isPermaLink="false">8faf3fe1-e795-4475-917c-6bd3961c88e6</guid>
-            <pubDate>Sun, 10 Jan 2016 23:52:30 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 06:25:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
